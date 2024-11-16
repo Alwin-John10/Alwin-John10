@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Alwin
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Alwin
+- 👀 I’m interested in learning
 - 🌱 I’m currently doing my Masters in Information Systems
 - 💞️ I’m looking to collaborate on innovative projects/internships
 - 📫 How to reach me? Linkedin: Alwin John
