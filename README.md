@@ -1,12 +1,35 @@
-- 👋 Hi, I’m Alwin
-- 👀 I’m interested in learning
-- 🌱 I’m currently doing my Masters in Information Systems
-- 💞️ I’m looking to collaborate on innovative projects/internships
-- 📫 How to reach me? Linkedin: Alwin John
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am fun to work with!😄
+## About Me
 
-<!---
-Alwin-John10/Alwin-John10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a graduate student focused on data and AI, with a strong interest in turning data into meaningful insights and building practical, real-world applications.
+
+I enjoy working on projects that combine analytics, machine learning, and interactive visualization to solve problems in a simple and effective way.
+
+## What I Work On
+
+* Data analysis and visualization
+* Machine learning applications
+* Real-world data-driven projects
+* Exploring AI tools and techniques
+
+## Current Focus
+
+Building and improving projects around data-driven decision-making and intelligent systems.
+
+## Interests
+
+* Data & AI
+* Real estate analytics and geospatial insights
+* Building clean, interactive dashboards
+* Learning new tools and frameworks that improve workflow and thinking
+
+## Philosophy
+
+Focus. Build. Improve. Repeat.
+
+## Status
+
+Quietly building something meaningful.
+
+## Contact
+
+Feel free to connect or reach out if you want to collaborate or talk about data, AI, or projects.
