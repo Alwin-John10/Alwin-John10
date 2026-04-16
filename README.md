@@ -18,17 +18,8 @@ Building and improving projects around data-driven decision-making and intellige
 ## Interests
 
 * Data & AI
-* Real estate analytics and geospatial insights
 * Building clean, interactive dashboards
 * Learning new tools and frameworks that improve workflow and thinking
-
-## Philosophy
-
-Focus. Build. Improve. Repeat.
-
-## Status
-
-Quietly building something meaningful.
 
 ## Contact
 
